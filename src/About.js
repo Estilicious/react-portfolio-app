@@ -10,7 +10,7 @@ export default function About(){
         </div>
         <div className= "col-6">
     <h2>
-        About Me
+        All About Me
     </h2>
     <p>
        Hello! I'm a certified language teacher, multilingual and junior front-end developer currently living in Japan. My coding journey was born out of a desire to switch to a fast-paced career.
