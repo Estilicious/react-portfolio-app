@@ -1,4 +1,5 @@
-import About from "./About.js"
+import About from "./About.js";
+import Project from "./Project.js";
 import './App.css';
 
 export default function App() {
@@ -16,8 +17,8 @@ Junior Web Developer
       </h3>
       <br/>
       <About />
+      <br/>
+      <Project />
     </div>
   );
 }
-
-<About />
