@@ -1,5 +1,6 @@
 import About from "./About.js";
 import Project from "./Project.js";
+import Footer from "./Footer.js";
 import './App.css';
 
 export default function App() {
@@ -10,7 +11,7 @@ export default function App() {
         Hi there! I'm
       </h2>
       <h1>
-        Esther Chiamaka Chukwu
+        The Rising sun
       </h1>
       <h3>
 Junior Web Developer
@@ -19,6 +20,8 @@ Junior Web Developer
       <About />
       <br/>
       <Project />
+<br/>
+      <Footer />
     </div>
   );
 }

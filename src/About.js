@@ -6,7 +6,7 @@ export default function About(){
     <div className="row">
         
         <div className="col-6">
-<img src="esypic2.png" className="img-fluid rounded-circle border border-warning" alt="A visual representation of the portfolio's owner" rel="noreferrer"/> 
+<img src="esy-avatar.png" className="img-fluid rounded-circle border border-warning" alt="A visual representation of the portfolio's owner" rel="noreferrer"/> 
         </div>
         <div className= "col-6">
     <h2>
