@@ -11,7 +11,7 @@ export default function Project() {
 <h3>
        HTML/CSS
        </h3> 
-       <img src="ije-landing-pix.png" alt="html landing page" rel="noreferrer" className="img-fluid rounded float-start" />
+       <img src="ije-landing-pix.png" alt="html landing page" rel="noreferrer" className="img-fluid rounded" />
 </div>
 <div className="col-4">
 <h3>

@@ -1,12 +1,13 @@
 import React from "react";
 
+import "./About.css";
 export default function About(){
     return (
 <div className="about-container">
     <div className="row">
         
         <div className="col-6">
-<img src="esy-avatar.png" className="img-fluid rounded-circle border border-warning" alt="A visual representation of the portfolio's owner" rel="noreferrer"/> 
+<img src="esy-avatar.png" className="About-image" alt="A visual representation of the portfolio's owner" rel="noreferrer"/> 
         </div>
         <div className= "col-6">
     <h2>

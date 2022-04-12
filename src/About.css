@@ -1,0 +1,7 @@
+.About-image {
+  max-width: 50%;
+  height: auto;
+  display: flex;
+  border-radius: 100px;
+  margin: 40px;
+}
