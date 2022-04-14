@@ -1,0 +1,16 @@
+.subhead {
+  text-align: center;
+  color: white;
+  padding-bottom: 20px;
+}
+
+h3 {
+  padding-left: 20px;
+  text-align: center;
+}
+
+img {
+  padding: 15px;
+  margin: 15px;
+  max-width: 300px;
+}

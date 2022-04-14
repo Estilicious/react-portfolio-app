@@ -1,7 +1,12 @@
 .About-image {
-  max-width: 50%;
+  max-width: 60%;
   height: auto;
   display: flex;
-  border-radius: 100px;
+  border-radius: 200px;
+  margin: 40px;
+}
+p {
+  color: white;
+  padding: 4px;
   margin: 40px;
 }
