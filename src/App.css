@@ -4,11 +4,11 @@
 }
 .App-intro {
   background-color: #09192f;
-
-  display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
+  display: flex;
+  flex-direction: column;
+
   font-family: Inter, Verdana, Geneva, Tahoma, sans-serif;
   color: pink;
 }

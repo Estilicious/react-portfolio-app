@@ -1,3 +1,4 @@
+import Header from "./Header.js";
 import About from "./About.js";
 import Project from "./Project.js";
 import Footer from "./Footer.js";
@@ -5,8 +6,10 @@ import './App.css';
 
 export default function App() {
   return (
+    <div className="App-container">
+    <Header />
+  
     <div className="App-intro">
-        <img src="esylogo1.png" className="App-logo" alt="logo" />
       <h2>
         Hi there! I'm
       </h2>
@@ -22,6 +25,7 @@ Junior Web Developer
       <Project />
 <br/>
       <Footer />
+    </div>
     </div>
   );
 }
